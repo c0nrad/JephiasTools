@@ -2,9 +2,15 @@
 
 Jephias Gwamuri, Lucas Wilder, Steven Helminen, Stuart Larsen, Pankaj Deshmukh
 
+http://3dprint.nih.gov/discover/3dpx-000752
+http://3dprint.nih.gov/discover/3dpx-000747
+http://3dprint.nih.gov/discover/3dpx-000746
+
 ## Source
 
 ### Parametric Microscope Slide Holder
+
+[http://3dprint.nih.gov/discover/3dpx-000746](http://3dprint.nih.gov/discover/3dpx-000746)
 
 Handle: [http://www.thingiverse.com/thing:521814](http://www.thingiverse.com/thing:521814)
 
@@ -18,17 +24,24 @@ This is a fully customize-able microscope slide holder created for the class EE 
 
 
 ### Negative Shadow Masks
+[http://3dprint.nih.gov/discover/3dpx-000747](http://3dprint.nih.gov/discover/3dpx-000747)
+
+
 [http://www.thingiverse.com/thing:522349](http://www.thingiverse.com/thing:522349)
 
 This is a contact shadow mask for use with a negative photo-resist (PR) during UV-lithography. It is used in micro-fabrication and its customize-able to get different feature shapes and sizes.
 
 ### Positive Shadow Mask
+[http://3dprint.nih.gov/discover/3dpx-000752](http://3dprint.nih.gov/discover/3dpx-000752)
+
+
+[http://www.thingiverse.com/thing:529208/#files](http://www.thingiverse.com/thing:529208/#files)
+
 
 A fully customize-able shadow mask created for the class MY4777 at Michigan Technological University.
 For use with a negative photo-resist (PR) during UV-lithography. It is used in micro-fabrication of solar cells and its customize-able to get different feature shapes and sizes.
 Open it in Customizer to edit the dimensions of the shadow mask to your liking
 
-[http://www.thingiverse.com/thing:529208/#files](http://www.thingiverse.com/thing:529208/#files)
 
 ### Shadow Mask Builder
 
