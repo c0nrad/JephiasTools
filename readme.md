@@ -33,5 +33,5 @@ But we printed it for .40 cents.
 
 ### Mask
 $750 Bilayer Mask
-We can print for 20cents.
-99.97% savings
+We can print for 2cents.
+99.997% savings
