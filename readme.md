@@ -8,8 +8,11 @@ Handle: [http://www.thingiverse.com/thing:521814](http://www.thingiverse.com/thi
 
 Base: [http://www.thingiverse.com/thing:518915](http://www.thingiverse.com/thing:521814)
 
-### Positive Shadow Masks
+### Negative Shadow Masks
 [http://www.thingiverse.com/thing:522349](http://www.thingiverse.com/thing:522349)
+
+### Positive Shadow Mask
+[http://www.thingiverse.com/thing:529208/#files](http://www.thingiverse.com/thing:529208/#files)
 
 ### Shadow Mask Builder
 
