@@ -2,11 +2,14 @@
 
 Jephias Gwamuri, Lucas Wilder, Steven Helminen, Stuart Larsen, Pankaj Deshmukh
 
+
 http://3dprint.nih.gov/discover/3dpx-000752
 
 http://3dprint.nih.gov/discover/3dpx-000747
 
 http://3dprint.nih.gov/discover/3dpx-000746
+
+
 
 ## Source
 
@@ -31,15 +34,17 @@ This is a fully customize-able microscope slide holder created for the class EE 
 
 [4inch_Wafer_Holder.scad](4inch_Wafer_Holder.scad)
 
+[NIS Circular Wafer Holder] (http://3dprint.nih.gov/discover/3dpx-000772)
+
 4" inch diameter circular/4" side square wafer silicon wafer holder for clean room
 
 ### UV Vis Sample Stage
 
-![uvSample.png](uvSample.png)
+![uvSample.png](uvSample.jpg)
 
 [UVSample.scad](UVSample.scad)
 
-
+[NIS UV-Vis](http://3dprint.nih.gov/discover/3dpx-000775)
 
 ### Negative Shadow Masks
 
@@ -93,3 +98,13 @@ But we printed it for .40 cents.
 $750 Bilayer Mask
 We can print for 2cents.
 99.997% savings
+
+### Sample Holder for UV Vis
+
+specification for the holder in the website,http://oceanoptics.com/product/rph-reflection-probe-holders/
+
+The cost is around 120 USD (RPH2) and 100 USD for RPH1
+
+This is the cost of the holder. We can also sho the original from ocean optics which is for reflection measurements. Ours is for transmission measurements.
+
+We print for about 35 cents.
