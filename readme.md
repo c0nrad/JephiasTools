@@ -3,12 +3,16 @@
 Jephias Gwamuri, Lucas Wilder, Steven Helminen, Stuart Larsen, Pankaj Deshmukh
 
 http://3dprint.nih.gov/discover/3dpx-000752
+
 http://3dprint.nih.gov/discover/3dpx-000747
+
 http://3dprint.nih.gov/discover/3dpx-000746
 
 ## Source
 
 ### Parametric Microscope Slide Holder
+
+![Holder](holder.png)
 
 [http://3dprint.nih.gov/discover/3dpx-000746](http://3dprint.nih.gov/discover/3dpx-000746)
 
@@ -31,6 +35,7 @@ This is a fully customize-able microscope slide holder created for the class EE 
 
 
 ### Negative Shadow Masks
+
 [http://3dprint.nih.gov/discover/3dpx-000747](http://3dprint.nih.gov/discover/3dpx-000747)
 
 
@@ -39,6 +44,9 @@ This is a fully customize-able microscope slide holder created for the class EE 
 This is a contact shadow mask for use with a negative photo-resist (PR) during UV-lithography. It is used in micro-fabrication and its customize-able to get different feature shapes and sizes.
 
 ### Positive Shadow Mask
+
+![Positive](positive.png)
+
 [http://3dprint.nih.gov/discover/3dpx-000752](http://3dprint.nih.gov/discover/3dpx-000752)
 
 
@@ -51,6 +59,10 @@ Open it in Customizer to edit the dimensions of the shadow mask to your liking
 
 
 ### Shadow Mask Builder
+
+![Masker](masker.png)
+
+A tool for building custom positive and negative shadow mask. Like customzer, but better!
 
 Demo: [masker.herokuapp.com](http://masker.herokuapp.com/)
 
