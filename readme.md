@@ -23,6 +23,13 @@ Base: [http://www.thingiverse.com/thing:518915](http://www.thingiverse.com/thing
 This is a fully customize-able microscope slide holder created for the class EE 4777 at Michigan Technological University. Enter in your slide dimensions and number of slides you want it to hold, then print away. Meant to be accompanied by http://www.thingiverse.com/thing:521814.
 
 
+### 4in Wafer Holder
+
+[4inch_Wafer_Holder.scad](4inch_Wafer_Holder.scad)
+
+4" inch diameter circular/4" side square wafer silicon wafer holder for clean room
+
+
 ### Negative Shadow Masks
 [http://3dprint.nih.gov/discover/3dpx-000747](http://3dprint.nih.gov/discover/3dpx-000747)
 
