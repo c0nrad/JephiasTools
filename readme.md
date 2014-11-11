@@ -33,6 +33,10 @@ This is a fully customize-able microscope slide holder created for the class EE 
 
 4" inch diameter circular/4" side square wafer silicon wafer holder for clean room
 
+### UV Vis Sample Stage
+
+[UVSample.scad](UVSample.scad)
+
 
 ### Negative Shadow Masks
 
