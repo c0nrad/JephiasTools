@@ -25,7 +25,7 @@ This is a fully customize-able microscope slide holder created for the class EE 
 
 [4inch_Wafer_Holder.scad](4inch_Wafer_Holder.scad)
 
-![WaferHolder.stl](WaferHolder.stl)
+![waferHolder.png](waferHolder.png)
 
 
 [NIS Circular Wafer Holder] (http://3dprint.nih.gov/discover/3dpx-000772)
