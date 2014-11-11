@@ -2,15 +2,6 @@
 
 Jephias Gwamuri, Lucas Wilder, Steven Helminen, Stuart Larsen, Pankaj Deshmukh
 
-
-http://3dprint.nih.gov/discover/3dpx-000752
-
-http://3dprint.nih.gov/discover/3dpx-000747
-
-http://3dprint.nih.gov/discover/3dpx-000746
-
-
-
 ## Source
 
 ### Parametric Microscope Slide Holder
@@ -60,7 +51,6 @@ This is a contact shadow mask for use with a negative photo-resist (PR) during U
 ![Positive](positive.png)
 
 [http://3dprint.nih.gov/discover/3dpx-000752](http://3dprint.nih.gov/discover/3dpx-000752)
-
 
 [http://www.thingiverse.com/thing:529208/#files](http://www.thingiverse.com/thing:529208/#files)
 
