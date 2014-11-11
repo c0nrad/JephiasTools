@@ -35,7 +35,10 @@ This is a fully customize-able microscope slide holder created for the class EE 
 
 ### UV Vis Sample Stage
 
+![uvSample.png](uvSample.png)
+
 [UVSample.scad](UVSample.scad)
+
 
 
 ### Negative Shadow Masks
